@@ -178,7 +178,8 @@ int main()
 {
 
 
-	
+	int j = 1;
+	int s = 2;
 
 
 
